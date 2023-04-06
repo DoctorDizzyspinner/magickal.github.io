@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Comic";
+    src: url('fonts/COMIC.TTF');
+}
+body{
+    font-family:"Comic";
+    background-image:url('images/black-glitter.gif');
+    color:#990099;
+    text-align:center;
+}
+table{
+    margin-left: auto;
+    margin-right:auto;
+    border:5px double #9900CC;
+    background-image:url('images/65.gif');
+    color:#33FFFF;
+    padding:5px;
+}
+td, th{
+    border:3px dashed #33FFFF;
+    padding:5px;
+    background-color:hotpink
+}
